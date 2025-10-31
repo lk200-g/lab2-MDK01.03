@@ -1,0 +1,3 @@
+execute_script insertall.txt
+show
+execute_script clearsave.txt
